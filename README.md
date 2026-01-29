@@ -13,5 +13,5 @@
 
 ### Technologies I work with:
 - **Languages:** TypeScript, C#
-- **Frameworks/Libraries:** Next.js, Tailwind CSS
+- **Frameworks/Libraries:** Next.js, React, Express.js, Tailwind CSS
 - **Databases:** MySQL
