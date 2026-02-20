@@ -19,4 +19,4 @@
 [Ctrl+Safe](https://github.com/agcbls49/Ctrl-Safe) - English & Filipino Hate Speech Detection Through Machine Learning.
 
 ### Technologies I work with:
-- TypeScript, Next.js, React, Express.js, Tailwind CSS, MySQL
+- TypeScript, Next.js, React, Express.js, Tailwind CSS, Drizzle ORM, MySQL
