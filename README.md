@@ -17,3 +17,5 @@
 
 **More about me outside of tech:**<br>
 https://ag49.straw.page/
+<br>
+https://monkeytype.com/profile/shihohon
